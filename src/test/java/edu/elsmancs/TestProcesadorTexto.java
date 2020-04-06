@@ -1,4 +1,4 @@
-package org.formacion.isp;
+package edu.elsmancs;
 
 import static org.junit.Assert.*;
 
